@@ -1,7 +1,6 @@
 # exchange-futures
 exchange-futures
 区块链交易所源码，法币，币币，合约，杠杆，机器人，java撮合，原生app钱包
-
 功能技术列表：
 1：前端：Vue、iView、less
 2：后端：Laravel、swoole、opcache、readline、fileinfo
