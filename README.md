@@ -2,6 +2,9 @@ TG： https://t.me/isdapp
 
 区块链交易所源码，法币，币币，合约，杠杆，机器人，java撮合，原生app钱包
 
+## 动画演示：
+![动画演示](demo.gif)
+
 ## Screenshots
 ![1](01.png)
 ![2](02.jpg)
